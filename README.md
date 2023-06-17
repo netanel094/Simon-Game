@@ -1,6 +1,6 @@
 # Simon-Game
 Simon game is a popular game to remember the patterns and get their sequence right.<br> I have developed this Simon Game using HTML, CSS and JavaScript along with jQuery.<br>
-[Link]([simongame1122.netlify.app](https://simongame1122.netlify.app/))
+[Link](https://simongame1122.netlify.app/)
 
 ## :hammer_and_wrench: Languages I used:
 <div>
